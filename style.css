@@ -1,0 +1,31 @@
+/* COLOR STYLES */
+
+/*
+#020202; rgb(2,2,2)
+#fc4c02; rgb(252,76,2)
+#0092be; rgb(0,146,190)
+#e2e2e2; rgb(226,226,226) 
+*/
+
+
+/* BOOTSTRAP MODIFICATIONS */
+body {
+	margin: 0;
+	height: 100vh;
+}
+.container {
+	margin: 0;
+}
+.navbar.navbar-default {
+	background-color: #2e2e2e;
+}
+a {
+	text-decoration: none;
+}
+
+/* PERSONAL */
+#data {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
